@@ -1,0 +1,6 @@
+framework module Pods_RectorKitRxFlowMoya {
+  umbrella header "Pods-RectorKitRxFlowMoya-umbrella.h"
+
+  export *
+  module * { export * }
+}
